@@ -1,0 +1,21 @@
+# My AI Journey with Claude 🤖
+
+## How I Share Files with Claude
+
+| Stage | Method | When to Use |
+|---|---|---|
+| 🟢 Right Now | Copy & Paste | Small files, quick questions |
+| 🟡 Easy Workaround | Make Repo Public Temporarily | Actively working on a project |
+| 🔵 Future Upgrade | GitHub MCP/API Connection | When ready to level up |
+
+## Safety Check Before Making Repo Public
+- ✅ No passwords?
+- ✅ No API keys?
+- ✅ No personal info?
+If all YES — safe to flip public temporarily!
+
+## My Progress
+- [x] Created GitHub account
+- [x] Learned GitHub basics
+- [ ] Made first commit ← (you're doing this now!)
+- [ ] Connected Claude MCP
